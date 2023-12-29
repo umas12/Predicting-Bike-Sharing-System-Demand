@@ -1,6 +1,6 @@
 # Predicting-Bike-Sharing-System-Demand
 
-## 2. Introduction
+## 1. Introduction
 #### Hypothesis (Objectives / Goals)
 
 1. Examine how different weather conditions impact bike rentals.
@@ -28,7 +28,7 @@ The primary objective of the project is to model the demand for shared bikes by 
 Through the utilization of the expansive dataset provided by bike-sharing systems, the research endeavors to provide a comprehensive understanding of urban mobility patterns. The insights derived from this analysis can play a crucial role in informing city planning, shaping transportation policies, and guiding infrastructure development. The ultimate aim is to contribute to the creation of more sustainable and efficient urban environments. Furthermore, the project's findings may extend to addressing broader issues related to smart city initiatives and the integration of data-driven solutions into urban planning practices.
 
 
-## 3. Data Description
+## 2. Data Description
 **Source of Information :** Kaggle - https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset
     
 **Description :** Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return back at another position. Currently, there are about over 500 bike-sharing programs around the world which is composed of over 500 thousands bicycles. Today, there exists great interest in these systems due to their important role in traffic, environmental and health issues.
